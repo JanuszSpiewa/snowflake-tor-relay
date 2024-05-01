@@ -1,10 +1,12 @@
 # ❄️ Relay Love
-
-
-https://relay.love<br>
-[https://januszspiewa.github.io/snowflake-tor-relay/]
-[mfhwtydqwv3jcjt2wumjmqww2llltfaqdbivu3hcmcnkhj5dvxjxiaid.onion]
-(http://mfhwtydqwv3jcjt2wumjmqww2llltfaqdbivu3hcmcnkhj5dvxjxiaid.onion)<br>
+https://januszspiewa.github.io/snowflake-tor-relay/
+<br>
+https://relay.love
+<br>
+mfhwtydqwv3jcjt2wumjmqww2llltfaqdbivu3hcmcnkhj5dvxjxiaid.onion
+<br>
+http://mfhwtydqwv3jcjt2wumjmqww2llltfaqdbivu3hcmcnkhj5dvxjxiaid.onion
+<br>
 https://scidsg.github.io/relaylove/
 
 ## Temporarily Share Your Bandwidth
